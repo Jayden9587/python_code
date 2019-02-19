@@ -1,2 +1,1 @@
-print('asd')
-print('a')
+print('"she is pretty"')
